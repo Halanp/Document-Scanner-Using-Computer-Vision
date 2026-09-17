@@ -1,50 +1,49 @@
-E1 Chelan Restaurant
-7971 SH 40th Street - Su1te 817
-Miam1, FL 30155
-ph 305-266-0212
-Cuest Check
-Thank You for visiting
-Please visit us on facebook at EL CHALAN
-RESTAURANT. We welcome all feedback
-regarding your visit. Emall us at
-E1Chalanrestaurant@ga11.com
-TABLE: 13 - 1 Guest
-Your Server was Rossy
-3/12/2016 1:13:51 PM
-Sequence #: 0000068
-1D #: 0389450
-QTY
-PRICE
-ITEM
-1
-$8.95
-CAUSA DE POLLO
-1
-$16.95
-1
-$4.00
-CEVICHE DE CAMARONES
-1
-$15.95
-LIMONADA
-PESCADO AL AJILLO
-$45.85
-Subtotal
-$3.67
-Total Taxes
-$49.52
-Grand Total
-$49.52
-Amount Due:
-25%
-20%
-$12.38
-15%
-$9.90
-$7.43
-PROPINA NO INCLUIDA
-TIP IS NOT INCLUDED
-GRACIAS!!!
-THANK YOU
-Guest Check
-arones
+nuventure
+TECHNOLOGY | INNOVATION | OUTCOMES
+WE'RE
+HIRING!
+AI / ML ENGINEER
+-FRESHER
+Kickstart your career in Artificial Intelligence
+& Machine Learning with real-world projects
+and an expert team.
+LOCATION
+ELIGIBLE QUALIFICATIONS
+WORK MODE
+Nuventure HQ,
+BTech, BCA, BSc Computer Science,
+Onsite
+Kochi
+MTech, MCA, MSc Computer Science
+WHAT WE'RE LOOKING FOR
+GOOD TO HAVE
+Certification in Artificial Intelligence /
+Knowledge of NLP, Computer Vision,
+Machine Learning
+or Generative Al
+Strong foundation in Machine Learning
+Basic understanding of Deep Learning,
+concepts and algorithms
+Neural Networks, CNNs/RNNs
+Knowledge of Python
+Exposure to AWS, Azure, or GCP
+Understanding of data preprocessing,
+feature engineering, and model evaluation
+Knowledge of APls, model deployment,
+or MLOps
+Hands-on AI/ML projects, internships,
+or academic work
+Basic SQL/data handling knowledge
+Good communication and
+Hackathon, research, or open-source
+teamwork skills
+experience
+Strong problem-solving mindset and
+willingness to learn
+Apply now and take the first step
+READY TO BUILD
+towards an exciting AI/ML career
+INTELLIGENT SOLUTIONS?
+at Nuventure Connect.
+www.nuventureconnect.com
+Nuventure Connect HQ, Kochi, Kerala
